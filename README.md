@@ -12,7 +12,7 @@
 - 근무 패턴 자동 순환 및 공휴일 / 주말 패턴 적용
 - 근무 구역 별 근무 시간·수당 자동 반영
 - 엑셀 및 시각화 결과물 자동 생성
-- 
+
 <div align="center"><h1>📚 STACKS</h1></div>
 
 
@@ -24,6 +24,7 @@
 <img src="https://img.shields.io/badge/matplotlib-FF7F00?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/holidays-0078D7?style=for-the-badge&logo=python&logoColor=white" />
 </div>
+<br>
 <br>
 
 ## 주요 코드 구조
