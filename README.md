@@ -1,6 +1,6 @@
 # K_VAN Korea
 <p align="center">
-  <img width="500" height="250" alt="Image" src="https://github.com/user-attachments/assets/3cc09cba-ced2-4245-8fcc-9e1ca1b61b29" />
+  <img width="500" height="250" alt="Image" src="https://github.com/user-attachments/assets/6a18ef7a-92d7-4c2e-ab3f-4bce3d1e5b73" />
 </p>
 
 ## 근무 스케줄 자동화 프로젝트 결과물
@@ -61,8 +61,8 @@
 
 ### 구역별 근무시간
 
-<img width="349" height="387" alt="Image" src="https://github.com/user-attachments/assets/37c65a26-355d-4a9a-a351-1439e08765ae" />
-<img width="349" height="369" alt="Image" src="https://github.com/user-attachments/assets/67c41065-4c7b-4137-b9ac-055403baefb1" />
+<img width="349" height="387" alt="Image" src="https://github.com/user-attachments/assets/b2acaed6-39fa-413f-a160-17dff95fb327" />
+<img width="349" height="369" alt="Image" src="https://github.com/user-attachments/assets/68a8eaea-75f8-433c-961b-e236539d3d42" />
 
 
 ## 사용 방법
@@ -83,4 +83,4 @@
 - 코드 및 결과물은 한글 환경(폰트, 공휴일 등 최적화)
 
 - 근무표 출력 예시
-<img width="1358" height="420" alt="Image" src="https://github.com/user-attachments/assets/b46b6ff7-6f30-4a3c-8a3c-2bca3083bbf5" />
+<img width="1358" height="420" alt="Image" src="https://github.com/user-attachments/assets/ecefcef9-b45e-4bc1-8c78-d4c89e33ee77" />
