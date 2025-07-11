@@ -1,4 +1,4 @@
-# K_VAN Korea
+# K-VAN Korea
 <p align="center">
   <img width="500" height="250" alt="Image" src="https://github.com/user-attachments/assets/6a18ef7a-92d7-4c2e-ab3f-4bce3d1e5b73" />
 </p>
