@@ -64,6 +64,8 @@
 <img width="349" height="387" alt="Image" src="https://github.com/user-attachments/assets/b2acaed6-39fa-413f-a160-17dff95fb327" />
 <img width="349" height="369" alt="Image" src="https://github.com/user-attachments/assets/68a8eaea-75f8-433c-961b-e236539d3d42" />
 
+### 특정 일 근무표 출력
+<img width="782" height="721" alt="Image" src="https://github.com/user-attachments/assets/596c3620-c426-4778-90cb-296d57331ecd" />
 
 ## 사용 방법
 
