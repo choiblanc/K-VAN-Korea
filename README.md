@@ -1,6 +1,6 @@
 # K-VAN Korea
 <p align="center">
-  <img width="500" height="250" alt="Image" src="https://github.com/user-attachments/assets/6a18ef7a-92d7-4c2e-ab3f-4bce3d1e5b73" />
+  <img width="500" height="250" alt="Image" src="https://github.com/user-attachments/assets/3cc09cba-ced2-4245-8fcc-9e1ca1b61b29" />
 </p>
 
 ## 근무 스케줄 자동화 프로젝트 결과물
@@ -13,19 +13,22 @@
 - 근무 구역 별 근무 시간·수당 자동 반영
 - 엑셀 및 시각화 결과물 자동 생성
 
-<div align="center"><h1>📚 STACKS</h1></div>
 
+<div align="center"><h1>📚 STACKS</h1></div>
 
 <div align="center">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<br>
 <img src="https://img.shields.io/badge/openpyxl-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 <img src="https://img.shields.io/badge/matplotlib-FF7F00?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/holidays-0078D7?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 <br>
 <br>
+
 
 ## 주요 코드 구조
 
@@ -75,11 +78,12 @@
 
 ### 구역별 근무시간
 
-<img width="349" height="387" alt="Image" src="https://github.com/user-attachments/assets/b2acaed6-39fa-413f-a160-17dff95fb327" />
-<img width="349" height="369" alt="Image" src="https://github.com/user-attachments/assets/68a8eaea-75f8-433c-961b-e236539d3d42" />
+<img width="349" height="387" alt="Image" src="https://github.com/user-attachments/assets/37c65a26-355d-4a9a-a351-1439e08765ae" />
+<img width="349" height="369" alt="Image" src="https://github.com/user-attachments/assets/67c41065-4c7b-4137-b9ac-055403baefb1" />
 
-### 특정 일 근무표 출력
-<img width="782" height="721" alt="Image" src="https://github.com/user-attachments/assets/596c3620-c426-4778-90cb-296d57331ecd" />
+### 1일 근무표 시각화
+
+<img width="782" height="721" alt="image" src="https://github.com/user-attachments/assets/f88c3bc6-efc7-497a-bdad-3e5cf5deb660" />
 
 ## 사용 방법
 
@@ -99,4 +103,37 @@
 - 코드 및 결과물은 한글 환경(폰트, 공휴일 등 최적화)
 
 - 근무표 출력 예시
-<img width="1358" height="420" alt="Image" src="https://github.com/user-attachments/assets/ecefcef9-b45e-4bc1-8c78-d4c89e33ee77" />
+<img width="1358" height="420" alt="Image" src="https://github.com/user-attachments/assets/b46b6ff7-6f30-4a3c-8a3c-2bca3083bbf5" />
+
+
+---
+## 2025.07.14 변경사항 추가
+- Streamlit을 통한 웹 구현
+- 드라이버 인적사항 등록 기능 추가
+
+### 사이드바
+- 드라이버 정보 입력
+- 시작 날짜
+- 생성할 기간(일)
+- 시간당 임금(원)
+- 스케줄 생성 및 분석 실행
+<p align="center">
+<img width="320" height="642" alt="image" src="https://github.com/user-attachments/assets/75927db8-ce7b-4d36-9028-ee42e2fa302b" />
+</p>
+<br>
+
+### 드라이버 정보 입력
+- 이름
+- 생년월일
+- 성별
+- 전화번호
+<p align="center">
+<img width="308" height="811" alt="image" src="https://github.com/user-attachments/assets/800633bf-c19a-4636-a79e-858664ade9e0" />
+</p>
+<br>
+
+
+## 전체 페이지
+<img width="1920" height="1029" alt="image" src="https://github.com/user-attachments/assets/d12fc2d5-8ff1-47f6-b08f-d05eee3518e2" />
+<img width="1920" height="1028" alt="image" src="https://github.com/user-attachments/assets/806b1b22-8701-4b76-ba4a-1160019f5542" />
+<img width="1920" height="1028" alt="image" src="https://github.com/user-attachments/assets/a52c771e-babd-4577-b3bd-399a383c214b" />
