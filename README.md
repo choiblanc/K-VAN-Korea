@@ -144,9 +144,13 @@
 <br>
 - 초기 페이지
 <p align="center">
-<img width="562" height="828" alt="image" src="https://github.com/user-attachments/assets/4d7b553a-2a29-46de-9046-4effc032895e" />
+<img width="501" height="739" alt="image" src="https://github.com/user-attachments/assets/a3ae9b45-a9cd-4128-a8cf-e0eb040d080c" />
 </p>
 <br>
 
 ### 시연동영상
-https://github.com/user-attachments/assets/76dd052a-b94a-43b4-b332-25253db5c006
+
+
+https://github.com/user-attachments/assets/58c6f7b0-42bd-497a-925b-8a29c9a7dea7
+
+
